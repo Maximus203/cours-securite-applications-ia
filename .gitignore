@@ -1,0 +1,24 @@
+# Dépendances
+node_modules/
+vendor/
+
+# Environnement — ne jamais committer de secrets
+.env
+.env.local
+*.local
+
+# Build
+dist/
+build/
+.next/
+out/
+
+# Système
+.DS_Store
+Thumbs.db
+*.log
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
