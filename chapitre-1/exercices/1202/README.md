@@ -1,6 +1,8 @@
-# Exercice 1202
+# Exercice 1202 — Repérer un identifiant suspect sur Juice Shop
 
 Énoncé complet : `1202-exercice.docx`
 
-Place ton travail dans ce dossier. Les endroits à compléter sont marqués
-`TODO(1202)` dans les fichiers fournis.
+Objectif : Sur ton instance Juice Shop, repérer au moins un identifiant numérique ou prévisible qui circule dans une URL ou une réponse réseau, sans encore l'exploiter.
+
+Place ton travail (rapport, code corrigé, DECISIONS.md selon l'exercice)
+directement dans ce dossier.

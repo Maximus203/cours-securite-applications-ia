@@ -1,6 +1,8 @@
-# Exercice 1201
+# Exercice 1201 — Installer et explorer SenMarket mini
 
 Énoncé complet : `1201-exercice.docx`
 
-Place ton travail dans ce dossier. Les endroits à compléter sont marqués
-`TODO(1201)` dans les fichiers fournis.
+Objectif : Installer et lancer SenMarket mini en local, se connecter avec un compte fourni, et cartographier ses pages sans encore exploiter de faille.
+
+Place ton travail (rapport, code corrigé, DECISIONS.md selon l'exercice)
+directement dans ce dossier.

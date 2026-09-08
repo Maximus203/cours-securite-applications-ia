@@ -35,9 +35,23 @@ jetable) :
 application est volontairement truffée de failles (voir le cadre légal du
 chapitre 0).
 
-## Batterie d'exercices
+## Batterie de 10 exercices
 
-Pas encore rédigée pour ce chapitre — les dossiers `exercices/1101` à
-`1502` sont des squelettes génériques, en attente de contenu.
+| Exercice | Niveau | Titre | Dossier |
+|---|---|---|---|
+| 1101 | 1 Découverte | Authentification ou autorisation ? | `exercices/1101/` |
+| 1102 | 1 Découverte | Lire les codes HTTP sans paniquer | `exercices/1102/` |
+| 1201 | 2 Application | Installer et explorer SenMarket mini | `exercices/1201/` |
+| 1202 | 2 Application | Repérer un identifiant suspect sur Juice Shop | `exercices/1202/` |
+| 1301 | 3 Consolidation | Exploiter l'IDOR de SenMarket mini | `exercices/1301/` |
+| 1302 | 3 Consolidation | Contourner la connexion et laisser une trace | `exercices/1302/` |
+| 1411 | 4 Approfondissement | Un XSS qui fait plus qu'une popup (concept externe) | `exercices/1411/` |
+| 1402 | 4 Approfondissement | Prioriser trois failles avec un budget limité | `exercices/1402/` |
+| 1501 | 5 Expert | Corriger les trois failles de SenMarket mini | `exercices/1501/` |
+| 1502 | 5 Expert | Auditer un projet que tu as toi-même écrit | `exercices/1502/` |
 
-Les énoncés complets iront dans les documents Word `XXXX-exercice.docx`.
+Les énoncés complets sont dans les documents Word `XXXX-exercice.docx`.
+
+Rappel du cadre légal du chapitre 0 : toute manipulation offensive se fait
+exclusivement sur SenMarket mini et sur ton instance Juice Shop en local,
+jamais sur un système qui ne t'appartient pas.

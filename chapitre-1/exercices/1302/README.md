@@ -1,6 +1,8 @@
-# Exercice 1302
+# Exercice 1302 — Contourner la connexion et laisser une trace
 
 Énoncé complet : `1302-exercice.docx`
 
-Place ton travail dans ce dossier. Les endroits à compléter sont marqués
-`TODO(1302)` dans les fichiers fournis.
+Objectif : Contourner la connexion de SenMarket mini par injection SQL, puis, une fois connecté, déposer un avis produit contenant une balise <script> qui s'exécute pour un autre visiteur.
+
+Place ton travail (rapport, code corrigé, DECISIONS.md selon l'exercice)
+directement dans ce dossier.

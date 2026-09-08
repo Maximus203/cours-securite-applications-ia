@@ -1,6 +1,8 @@
-# Exercice 1501
+# Exercice 1501 — Corriger les trois failles de SenMarket mini
 
 Énoncé complet : `1501-exercice.docx`
 
-Place ton travail dans ce dossier. Les endroits à compléter sont marqués
-`TODO(1501)` dans les fichiers fournis.
+Objectif : Corriger les trois failles de SenMarket mini directement dans le code, et prouver pour chacune que l'exploitation d'origine échoue désormais.
+
+Place ton travail (rapport, code corrigé, DECISIONS.md selon l'exercice)
+directement dans ce dossier.
