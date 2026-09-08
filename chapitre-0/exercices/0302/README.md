@@ -1,6 +1,9 @@
-# Exercice 0302
+# Exercice 0302 — Écrire un diagnostic en quatre lignes
 
 Énoncé complet : `0302-exercice.docx`
 
-Place ton travail dans ce dossier. Les endroits à compléter sont marqués
-`TODO(0302)` dans les fichiers fournis.
+Objectif : Restructurer trois observations brutes en trois diagnostics complets, selon les quatre éléments du chapitre.
+
+Ce chapitre ne fournit pas de code de départ : dépose ton livrable écrit
+(document, tableau, README, DECISIONS.md selon l'exercice) directement dans
+ce dossier.
