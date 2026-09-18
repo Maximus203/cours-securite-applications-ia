@@ -1,0 +1,12 @@
+{
+    "name": "senmarket/mini",
+    "description": "SenMarket mini -- chapitre 2, ajout de la confirmation de commande par email",
+    "require": {
+        "phpmailer/phpmailer": "6.1.0"
+    },
+    "config": {
+        "audit": {
+            "block-insecure": false
+        }
+    }
+}
