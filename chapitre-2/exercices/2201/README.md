@@ -1,6 +1,8 @@
-# Exercice 2201
+# Exercice 2201 — Auditer SenMarket mini avec composer audit
 
 Énoncé complet : `2201-exercice.docx`
 
-Place ton travail dans ce dossier. Les endroits à compléter sont marqués
-`TODO(2201)` dans les fichiers fournis.
+Objectif : Installer les dépendances de senmarket-mini/ et lancer composer audit, puis documenter chaque avis trouvé.
+
+Place ton travail (rapport, code corrigé, DECISIONS.md ou ROTATION.md selon
+l'exercice) directement dans ce dossier.

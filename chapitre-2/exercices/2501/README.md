@@ -1,6 +1,8 @@
-# Exercice 2501
+# Exercice 2501 — Écrire un plan de rotation complet
 
 Énoncé complet : `2501-exercice.docx`
 
-Place ton travail dans ce dossier. Les endroits à compléter sont marqués
-`TODO(2501)` dans les fichiers fournis.
+Objectif : Rédiger un plan de rotation complet et daté pour la clé TerangaMail compromise du chapitre, suffisamment détaillé pour qu'une autre personne puisse l'exécuter sans poser de question.
+
+Place ton travail (rapport, code corrigé, DECISIONS.md ou ROTATION.md selon
+l'exercice) directement dans ce dossier.

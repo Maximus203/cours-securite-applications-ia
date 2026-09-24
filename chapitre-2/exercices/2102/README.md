@@ -1,6 +1,8 @@
-# Exercice 2102
+# Exercice 2102 — Lire un avis de sécurité sans paniquer
 
 Énoncé complet : `2102-exercice.docx`
 
-Place ton travail dans ce dossier. Les endroits à compléter sont marqués
-`TODO(2102)` dans les fichiers fournis.
+Objectif : À partir de quatre extraits d'avis de sécurité (paquet, versions affectées, versions corrigées, gravité), déterminer si une version installée donnée est vulnérable et évaluer l'urgence.
+
+Place ton travail (rapport, code corrigé, DECISIONS.md ou ROTATION.md selon
+l'exercice) directement dans ce dossier.
